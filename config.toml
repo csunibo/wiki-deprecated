@@ -9,3 +9,23 @@ theme = "hugo-theme-relearn"
 
 [outputs]
 home = [ "HTML", "RSS", "SEARCH"]
+section = ["HTML", "RSS", "PRINT"]
+page = ["HTML", "RSS", "PRINT"]
+
+[params]
+  editURL = "https://github.com/csunibo/wiki/edit/main/content/"
+  description = "Documentation for Hugo Relearn Theme"
+  author = "Sören Weber"
+  showVisitedLinks = true
+  collapsibleMenu = true
+  disableBreadcrumb = false
+  disableInlineCopyToClipBoard = true
+  disableNextPrev = false
+  disableLandingPageButton = true
+  titleSeparator = "::"
+  themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
+  themeVariantAuto = [ "relearn-light", "relearn-dark" ]
+  disableSeoHiddenPages = true
+  mermaidInitialize = "{ \"securityLevel\": \"loose\" }"
+  mermaidZoom = true
+  additionalContentLanguage = [ "en" ]
