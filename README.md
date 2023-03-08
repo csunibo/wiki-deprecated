@@ -1,2 +1,4 @@
-# wiki
-Una raccolta di utili conoscenze sull'organizzazione e il funzionamento di CSUnibo.
+# Wiki
+
+Una raccolta di utili conoscenze sull'organizzazione e il funzionamento di
+CSUnibo.
