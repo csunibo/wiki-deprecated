@@ -20,12 +20,15 @@ Queste guide sono utili per tre tipi di individui:
 - chi **manutiene** CSunibo, moderando i lavori delle e dei contribuenti, nonché
   assicurandosi che le varie infrastrutture funzionino al meglio.
 
-Questo trittico è rispecchiato anche dalla ripartizione delle pagine.
+Questo trittico è rispecchiato anche dalla ripartizione delle pagine che
+seguono.
 
 ## Da chi?
 
-Se rientri in una delle tre cateogire sopra citate, congratulazioni: non solo
+Se rientri in una delle tre categorie sopra citate, congratulazioni: non solo
 puoi cercare su questa wiki le risposte ai tuoi dubbi, ma ogni volta che capiti
-su una pagina che pensi andrebbe corretta o espansa, puoi cliccare sulla
-matita ✏️ e modificare il codice sorgente che l'ha generata (anche chiedendo
-aiuto!). Così aiuti chiunque leggerà la stessa pagina dopo di te!
+su una pagina che pensi andrebbe corretta o espansa, puoi cliccare sull'icona
+della matita. Potrai modificare il codice sorgente che l'ha generata
+direttamente dalla _repository_. Così dai una mano a chiunque leggerà la stessa
+pagina dopo di te! Se hai dei dubbi riguardanti le modifiche che vorresti
+effettuare, basterà chiedere aiuto scrivendo in una nuova _issue_.
