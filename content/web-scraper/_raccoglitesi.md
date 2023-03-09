@@ -1,6 +1,6 @@
 +++
 archetype = "home"
-title = "Raccogli tesi"
+title = "Raccoglitesi"
 +++
 
 > "Dimenticare come zappare la terra e curare il terreno significa dimenticare
