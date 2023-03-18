@@ -1,5 +1,5 @@
 ---
-title = "Raccoglitesi"
+title: "Raccoglitesi"
 date: 2023-03-18T13:13:34+01:00
 ---
 
