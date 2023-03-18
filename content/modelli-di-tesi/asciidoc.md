@@ -8,6 +8,8 @@ date: 2023-03-18T13:13:34+01:00
 
 ## Introduzione
 
-[AsciiDoc](https://asciidoc.org) è un formato di documenti più semplice e
-conciso rispetto a LaTeX, ma che genera comunque contenuto ricco e accattivante.
-Scrivere la tua tesi in questo formato ti permette di semplificarti la vita.
+[Questo modello per tesi](https://github.com/csunibo/asciidoc-thesis) fa suo di
+[AsciiDoc](https://asciidoc.org), un formato di documenti più semplice e conciso
+rispetto a LaTeX, ma che genera comunque contenuto ricco e accattivante. È
+spesso usato per la documentazione tecnica. Scrivere la tua tesi in questo
+formato ti permette di semplificarti la vita.
