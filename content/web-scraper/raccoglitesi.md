@@ -1,11 +1,11 @@
-+++
-archetype = "home"
+---
 title = "Raccoglitesi"
-+++
+date: 2023-03-18T13:13:34+01:00
+---
 
 > "Dimenticare come zappare la terra e curare il terreno significa dimenticare
 > se stessi."
-> MAHATMA GANDHI
+> Mahatma Gandhi
 
 ## Introduzione
 
