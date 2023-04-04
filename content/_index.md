@@ -20,9 +20,6 @@ Queste guide sono utili per tre tipi di individui:
 - chi **manutiene** CSunibo, moderando i lavori delle e dei contribuenti, nonché
   assicurandosi che le varie infrastrutture funzionino al meglio.
 
-Questo trittico è rispecchiato anche dalla ripartizione delle pagine che
-seguono.
-
 ## Da chi?
 
 Se rientri in una delle tre categorie sopra citate, congratulazioni: non solo

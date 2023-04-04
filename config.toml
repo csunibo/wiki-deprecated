@@ -15,17 +15,22 @@ page = ["HTML", "RSS", "PRINT"]
 [params]
   editURL = "https://github.com/csunibo/wiki/edit/main/content/"
   description = "Documentation for Hugo Relearn Theme"
-  author = "Sören Weber"
+  author = "Studenti del corso di laurea in Informatica dell'Università di Bologna"
   showVisitedLinks = true
   collapsibleMenu = true
   disableBreadcrumb = false
   disableInlineCopyToClipBoard = true
   disableNextPrev = false
-  disableLandingPageButton = true
+  disableLandingPageButton = false
   titleSeparator = "::"
   themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
   themeVariantAuto = [ "relearn-light", "relearn-dark" ]
   disableSeoHiddenPages = true
+  disableLanguageSwitchingButton = true
   mermaidInitialize = "{ \"securityLevel\": \"loose\" }"
   mermaidZoom = true
   additionalContentLanguage = [ "en" ]
+
+[languages]
+[languages.en]
+landingPageName = "<i class='fas fa-home'></i> Pagina iniziale"
