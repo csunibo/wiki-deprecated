@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Bot"
-weight = 2
+weight = 3
 +++
 
 I _bot_ possono conversare con te via messaggio per aiutarti nella tua

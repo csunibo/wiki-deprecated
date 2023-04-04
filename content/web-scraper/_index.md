@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Web Scraper"
-weight = 3
+weight = 4
 +++
 
 I _web scraper_ sono script che visitano pagine web interessanti (come

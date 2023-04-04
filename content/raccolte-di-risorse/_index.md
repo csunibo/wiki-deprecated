@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Raccolte di risorse"
-weight = 1
+weight = 2
 +++
 
 Per ciascun insegnamento, raccogliamo in modo organizzato appunti, testi e

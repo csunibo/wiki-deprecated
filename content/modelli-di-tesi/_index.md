@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Modelli di tesi"
-weight = 6
+weight = 7
 +++
 
 A partire dal formato proposti dal dipartimento, abbiamo reso disponibili

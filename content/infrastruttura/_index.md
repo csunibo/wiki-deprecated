@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Infrastruttura"
-weight = 5
+weight = 6
 +++
 
 Quando per uno qualsiasi degli altri servizi, o per progetti personali

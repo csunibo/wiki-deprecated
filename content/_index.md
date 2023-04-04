@@ -1,6 +1,6 @@
 +++
 archetype = "home"
-title = "Wiki"
+title = "Wiki di CSUnibo"
 +++
 
 > "Quando vuoi istruire, sii breve."
