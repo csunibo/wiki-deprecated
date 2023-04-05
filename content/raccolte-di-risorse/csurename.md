@@ -3,7 +3,8 @@ title: "csurename"
 date: 2023-04-05T12:35:38+02:00
 ---
 
-[`csurename`](https://github.com/csunibo/csurename) è un piccolo strumento con
+`csurename` (ospitato [su GitHub](https://github.com/csunibo/csurename)) è un
+piccolo strumento con
 intrefaccia a linea di comando che rinomina tutti i file in una cartella
 affinché aderiscano alla convenzione `kebab-case` delle risorse di CSUnibo per
 gli insegnamenti.

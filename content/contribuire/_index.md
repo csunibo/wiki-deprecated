@@ -55,3 +55,17 @@ fornire loro supporto, divise e divisi in
 [gruppi](https://github.com/org/csunibo/teams) in base ai propri interessi. Non
 serve nessuna esperienza pregressa, perché offriamo formazione completa. Siamo
 sempre in cerca di nuove persone interessate!
+
+## Aiuto! Voglio dare una mano, ma non ho idee...
+
+Se hai già una _repository_ in particolare a cui ti piacerebbe contribuire, puoi
+aprirla, cliccare su "Issues" e controllare se ci sia un qualche lavoretto da
+fare.
+
+Se non hai niente in mente, puoi trovare
+[qui](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3Acsunibo+)
+l'elenco di tutte le _issue_ aperte fra le varie _repository_ di CSUnibo.
+
+Se questo elenco ti sembra troppo dispersivo, puoi consultare i [progetti di
+CSUnibo](https://github.com/orgs/csunibo/projects), raccolte organiche di
+_issue_ organizzate per tema.
