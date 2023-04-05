@@ -1,6 +1,14 @@
 ---
 title: "Automazione"
 date: 2023-04-05T11:33:16+02:00
-draft: true
 ---
 
+Questa [repository GitHub](https://github.com/csunibo/infrastructure) raccoglie
+i file _Ansible_ usati [dalle nostre sistemiste e dai nostri
+sistemisti](https://github.com/orgs/csunibo/teams/sistemisti) per manutenere i
+nostri servizi.
+
+## `bot` (Informabot)
+
+Per eseguire il playbook sull'host `bot` è necessario inserire il token del bot
+di telegram nel file `passwords/bot_token`.
