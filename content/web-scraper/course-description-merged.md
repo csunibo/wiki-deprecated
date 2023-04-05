@@ -1,7 +1,6 @@
 ---
 title: "Decrizione unificata degli insegnamenti"
 date: 2023-04-05T18:32:54+02:00
-draft: true
 ---
 
 Un webscraper che, quotidianamente, raccoglie tutti i corsi con descrizione e
