@@ -1,5 +1,5 @@
 ---
-title: "Controlli Automatici"
+title: "Controlli automatici"
 date: 2023-04-05T12:21:04+02:00
 ---
 
