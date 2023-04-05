@@ -1,7 +1,6 @@
 ---
 title: "Informabot"
 date: 2023-04-05T17:47:04+02:00
-draft: true
 ---
 
 `Informabot` (ospitato [su GitHub](https://github.com/csunibo/informabot)) è il
