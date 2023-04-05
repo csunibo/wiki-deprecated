@@ -31,7 +31,7 @@ Si consiglia l'installazione di un'estensione code editor che supporti
 Per compilare il file di esempio `tesi.adoc` utilizzare il comando:
 
 ```bash
-asciidoctor-pdf --theme unibo.yml -a pdf-fontsdir=fonts tesi.adoc
+asciidoctor-pdf -a pdf-fontsdir=fonts tesi.adoc
 ```
 
 ## CI/CD
@@ -73,6 +73,38 @@ l'impaginazione.
 
 ### Liste
 
+La documentazione ufficiale per la struttura e lo stile:
+
+- https://docs.asciidoctor.org/asciidoc/latest/lists/unordered/[Liste Generiche]
+- https://docs.asciidoctor.org/asciidoc/latest/lists/unordered/[Liste Ordinate]
+- https://docs.asciidoctor.org/pdf-converter/latest/theme/list/[Stile]
+
+Offriamo diversi stili per le liste:
+
+`•` con il tipo `[circle]` +
+`■` con il tipo `[square]` +
+`❉` con il tipo `[disc]`
+
+Esempio di lista generica:
+
+```adoc
+[circle]
+* Protons
+* Electrons
+* Neutrons
+```
+
+Esempio di lista ordinata:
+
+```adoc
+1. Protons
+2. Electrons
+3. Neutrons
+```
+
+Se usi `.` al posto dei numeri nella lista ordinata, i numeri
+verrano inseriti automaticamente.
+
 ### Immagini
 
 ### Tabelle
@@ -84,6 +116,13 @@ l'impaginazione.
 ### Syntax Highlighting
 
 ### Bibliografia
+
+La bibliografia si trova nel file `bibliografia.adoc`.
+Non è altro che una lista generica di elementi che cominciano
+per `* [[[segnaposto,Testo del segnaposto]]]`. +
+Il `segnaposto` prima della virgola è un codice che si può
+utilizzare nel testo come referenza, il testo del segnaposto è
+il testo che appare al posto del codice.
 
 ### Numeri di Pagina
 
