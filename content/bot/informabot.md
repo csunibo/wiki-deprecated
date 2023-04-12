@@ -41,6 +41,8 @@ candidata:
 >
 > appunti - Appunti su Notion
 >
+> calendario - Aggiungi lezioni al tuo calendario
+>
 > cercogruppo - Cerca un gruppo di progetto
 >
 > coursedesc - Documento con tutte le descrizioni dei corsi in inglese
