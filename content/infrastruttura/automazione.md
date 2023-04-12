@@ -10,9 +10,9 @@ nostri servizi. L'infrastruttura sottostante alle macchine virtuali su cui
 questi file _Ansible_ vengono eseguiti, invece, è [gestita dalle studentesse e
 gli studenti di AdmStaff](https://students.cs.unibo.it/wiki/).
 
-## `bot` ([Informabot](../bot/informabot))
+## `bot` ([Informabot](../../bot/informabot))
 
 Per eseguire il playbook sull'host `bot` è necessario inserire il token del bot
 di telegram nel file `passwords/bot_token`.
 
-## `calendar` ([Calendario](../applicativi-web/calendario))
+## `calendar` ([Calendario](../../applicativi-web/calendario))
