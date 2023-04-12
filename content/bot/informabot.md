@@ -4,7 +4,8 @@ date: 2023-04-05T17:47:04+02:00
 ---
 
 `Informabot` (ospitato [su GitHub](https://github.com/csunibo/informabot)) è il
-bot Telegram che assiste gli studenti del DISI.
+bot Telegram che assiste gli studenti del DISI. Puoi scrivergli [da
+qui](https://t.me/UniboInformabot).
 
 ## Dipendenze
 
