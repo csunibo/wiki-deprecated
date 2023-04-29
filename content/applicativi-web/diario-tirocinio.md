@@ -4,7 +4,7 @@ date: 2023-04-28T00:19:24+02:00
 ---
 
 - [Repository GitHub](https://github.com/csunibo/diario-tirocinio)
-- [Sito web](csunibo.github.io/diario-tirocinio/)
+- [Sito web](https://csunibo.github.io/diario-tirocinio/)
 
 ## Descrizione
 
