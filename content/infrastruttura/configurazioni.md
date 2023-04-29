@@ -1,7 +1,6 @@
 ---
 title: "Configurazioni"
 date: 2023-04-29T15:13:05+02:00
-draft: true
 ---
 
 Talvolta, gli stessi valori di configurazione possono essere usati più volte in
