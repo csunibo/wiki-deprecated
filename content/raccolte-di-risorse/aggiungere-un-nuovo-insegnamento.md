@@ -1,5 +1,5 @@
 ---
-title: "Aggiungere Un Nuovo Insegnamento"
+title: "Aggiungere un nuovo insegnamento"
 date: 2023-06-06T00:49:44+02:00
 ---
 
