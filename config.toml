@@ -31,6 +31,5 @@ page = ["HTML", "RSS", "PRINT"]
   mermaidZoom = true
   additionalContentLanguage = [ "en" ]
 
-[languages]
-[languages.en]
+[languages.en.params]
 landingPageName = "<i class='fas fa-home'></i> Pagina iniziale"
