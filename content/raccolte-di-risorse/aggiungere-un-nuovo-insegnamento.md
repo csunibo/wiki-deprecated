@@ -27,6 +27,7 @@ CSUnibo:
     in modo appropriato;
 11. aggiorna la [pagina principale di
     CSUnibo](https://github.com/csunibo/csunibo.github.io) in modo appropriato;
-12. concedi i diritti come "Admin" ai gruppi interessati. Per esempio, per un
-    insegnamento di Ingegneria informatica del secondo anno, andrebbero aggiunti
-    i gruppi di ingegneria informatica di secondo e terzo anno.
+12. concedi i diritti come "Admin" al gruppo interessato. Per esempio, per un
+    insegnamento di Ingegneria informatica del secondo anno, andrebbe aggiunto
+    il gruppi di Ingegneria informatica del secondo anno (quello del terzo anno
+    ne è un sottogruppo, e quindi non c'è biosgno di fare altro),
