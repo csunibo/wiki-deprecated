@@ -29,5 +29,5 @@ CSUnibo:
     CSUnibo](https://github.com/csunibo/csunibo.github.io) in modo appropriato;
 12. concedi i diritti come "Admin" al gruppo interessato. Per esempio, per un
     insegnamento di Ingegneria informatica del secondo anno, andrebbe aggiunto
-    il gruppi di Ingegneria informatica del secondo anno (quello del terzo anno
-    ne è un sottogruppo, e quindi non c'è biosgno di fare altro),
+    il gruppo di Ingegneria informatica del secondo anno (quello del terzo ne è
+    un sottogruppo, e quindi non c'è biosgno di fare altro).
