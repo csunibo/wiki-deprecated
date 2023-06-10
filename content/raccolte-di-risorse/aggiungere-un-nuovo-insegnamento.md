@@ -26,4 +26,7 @@ CSUnibo:
 10. aggiorna [il profilo GitHub di CSUnibo](https://github.com/csunibo/.github)
     in modo appropriato;
 11. aggiorna la [pagina principale di
-    CSUnibo](https://github.com/csunibo/csunibo.github.io) in modo appropriato.
+    CSUnibo](https://github.com/csunibo/csunibo.github.io) in modo appropriato;
+12. concedi i diritti come "Admin" ai gruppi interessati. Per esempio, per un
+    insegnamento di Ingegneria informatica del secondo anno, andrebbero aggiunti
+    i gruppi di ingegneria informatica di secondo e terzo anno.
