@@ -1,6 +1,7 @@
 ---
 title: "csurename"
 date: 2023-04-05T12:35:38+02:00
+stub: true
 ---
 
 `csurename` (ospitato [su GitHub](https://github.com/csunibo/csurename)) è un

@@ -6,16 +6,20 @@ weight = 2
 
 Per ciascun insegnamento, raccogliamo in modo organizzato appunti, testi e
 soluzioni di esercizi e prove di esame, libri, dispense, lucidi e molto altro.
+Dal loro caricamento diventano visionabili su:
 
-Quando contribuisci con le tue risorse, ricorda che:
+- l'applicazione web [dynamik.vercel.app](https://dynamik.vercel.app/);
+- il sito statico [csunibo.github.io](https://csunibo.github.io/).
 
-- i tuoi file devono rispettare le convenzioni di nomenclatura in `README.md`,
-  o i controlli automatici falliranno;
-- eventuali tuoi file `.tex` o `.md` devono compilare correttamente nei formati
-  supportati da CSUnibo;
-- se hai i sorgenti `.tex`, `.md`, `.doc(x)` o `.ppt(x)`, dovresti preferirli a
-  caricare i loro corrispettivi in PDF, cosicchè tutti possano lavorarvi più
-  facilmente;
-- se stai aggiungendo un file con una estensione nuova, e vuoi che tale file non
-  venga nascosto sul sito autogenerato, dovresti aggiungerla a `REGEX_INCLUDE`
-  in `.github/workflows/build-and-deploy.yml`.
+Nuove istanze in arrivo!
+
+## Controllo qualità
+
+Quando contribuisci con le tue risorse o stai per accettare il lavoro di
+un'altra persona, assicurati:
+
+- di non caricare/accettare contenuti duplicati, incomprensibili, inutili,
+  offensivi o illegali;
+- che tutti i [controlli automatici](./controlli-automatici) passino;
+- di usare, dove possibile, "sorgenti" `.tex`/`.md`/`.doc(x)`/`.odt(x)` e simili
+  anziché le loro controparti "compilate" PDF/HTML.
