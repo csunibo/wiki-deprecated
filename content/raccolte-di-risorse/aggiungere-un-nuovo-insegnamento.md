@@ -27,7 +27,9 @@ CSUnibo:
     in modo appropriato;
 11. aggiorna la [pagina principale di
     CSUnibo](https://github.com/csunibo/csunibo.github.io) in modo appropriato;
-12. concedi i diritti "Mantain" al gruppo interessato. Per esempio, per un
-    insegnamento di Ingegneria informatica del secondo anno, andrebbe aggiunto
-    il gruppo di Ingegneria informatica del secondo anno (quello del terzo ne è
-    un sottogruppo, e quindi non c'è biosgno di fare altro).
+12. concedi i diritti "Mantain" ai gruppi interessati. Per esempio, per un
+    insegnamento di Ingegneria informatica del secondo anno, andrebbero aggiunti
+    i gruppo di Ingegneria informatica del secondo e terzo anno;
+13. aggiungi il nuovo insegnamento a
+    [`teachings.ts`](https://github.com/csunibo/dynamik/blob/main/src/lib/teachings.ts)
+    affinché sia riconosciuto da Dynamik.
