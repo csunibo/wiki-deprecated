@@ -10,12 +10,16 @@ controllano esse siano rispettate sia da `csurename`, che rinomina le risorse
 affinché esse passino in seguito questi controlli.
 
 In un'ottica di riuso del codice, queste configurazioni sono centralizzate
-su [csunibo/config](https://github.com/csunibo/config). Il formato scelto è
-JSON. Ogni volta che vengono aggiunte modifiche a `main` o ci sono novità su una
-PR verso `main` stesso, un controllo sintattico viene automaticamente
-effettuato su ogni file JSON.
+su [csunibo/config](https://github.com/csunibo/config).
+
+## CI/CD
+
+In `.github/workflows`, sono presenti le procedure di CI/CD riutilizzate da
+ogni insegnamento.
 
 ## Nomenclatura
 
-Le espressioni regolari che descrivono le regole di nomenclatura da adottare per
-i nomi delle risorse sono memorizzate in `config/naming.json`.
+Le grammatiche che descrivono le regole di nomenclatura da adottare per i nomi
+delle risorse sono memorizzate nei file `.synta`. Synta è un formato interno
+ad-hoc. La correttezza di questi file è verificata automaticamente a ogni
+modifica di `main`.
