@@ -8,8 +8,8 @@ contribuire alle risorse di un insegnamento:
 
 1. quando visioni le risorse, in cima alla pagina vedrai il
    `nome-della-repository` che le contiene (ad esempio, `sistemi-operativi`);
-2. visita `github.com/csunibo/nome-della-repository` (o cerca il nome su
-   [https://github.com/orgs/csunibo/repositories](https://github.com/orgs/csunibo/repositories);
+2. visita `github.com/csunibo/nome-della-repository` (o cerca il nome
+   nell'[elenco](https://github.com/orgs/csunibo/repositories));
 3. in alto a destra, clicca su "Fork" e, sulla pagina risultante, "Create fork";
 4. visualizzerai `github.com/nome-utente/nome-della-repository`. Usala come una
    tua cartella condivisa (scollegata dal progetto originale) per aggiungere o
