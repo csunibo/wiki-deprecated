@@ -32,5 +32,5 @@ CSUnibo:
     insegnamento di Ingegneria informatica del secondo anno, andrebbero aggiunti
     i gruppo di Ingegneria informatica del secondo e terzo anno;
 14. aggiungi il nuovo insegnamento a
-    [`teachings.ts`](https://github.com/csunibo/dynamik/blob/main/src/lib/teachings.ts)
+    [`courses.json` della repository `config`](https://github.com/csunibo/config/blob/main/courses.json)
     affinché sia riconosciuto da Dynamik.
