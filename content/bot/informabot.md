@@ -30,63 +30,13 @@ go run main.go $TOKEN
 dove `$TOKEN` è il codice di autorizzazione ricevuto da
 [BotFather](https://core.telegram.org/bots#6-botfather).
 
-## Comandi
+## Configurazione
 
 Quando configuri il bot con
 [BotFather](https://core.telegram.org/bots#6-botfather), ti sarà chiesto di
-mandare la lista dei comandi del tuo bot. Quella che segue è una buona
-candidata:
-
-```
-help - Elenca i comandi disponibili
-appunti - Appunti su Notion
-calendario - Aggiungi lezioni al tuo calendario
-cercogruppo - Cerca un gruppo di progetto
-coursedesc - Documento con tutte le descrizioni dei corsi in inglese
-dns - I DNS di ALMAWIFI
-admstaff - Tutte le info di AdmStaff
-gruppi - Gruppi Telegram, server Discord e subreddit
-lezionioggi - Orari lezioni di oggi (tuo anno)
-lezionioggi1 - Orari lezioni di oggi (1° anno)
-lezionioggi2 - Orari lezioni di oggi (2° anno)
-lezionioggi3 - Orari lezioni di oggi (3° anno)
-lezionidomani - Orari lezioni di domani (tuo anno)
-lezionidomani1 - Orari lezioni di domani (1° anno)
-lezionidomani2 - Orari lezioni di domani (2° anno)
-lezionidomani3 - Orari lezioni di domani (3° anno)
-materiali - Libri, materiali, prove e altro su CSUnibo
-noncercogruppo - Smetti di cercare un gruppo di progetto
-ludopatico - Tenta la fortuna
-registrate - Lezioni registrate su OneDrive
-scelta - Elenchi esami a scelta
-stickers - Pacchetti degli adesivi Telegram del corso
-tesi - Tesi DISI proposte e assegnate
-tirocinio - Strumento per riassumere le attività svolte durante il proprio tirocinio
-wiki - Il wiki di CSUnibo
-architettura - Tutto su Architettura degli elaboratori
-logica - Tutto su Logica per l'informatica
-programmazione - Tutto su Programmazione
-algebra - Tutto su Algebra e geometria
-algoritmi - Tutto su Algoritmi e strutture di dati
-analisi - Tutto su Analisi matematica
-calcolo - Tutto su Calcolo numerico
-ottimizzazione - Tutto su Ottimizzazione combinatoria
-linguaggi - Tutto su Linguaggi di programmazione
-reti - Tutto su Reti di calcolatori
-tecnologie - Tutto su Tecnologie web
-probabilita - Tutto su calcolo delle probabilità e statistica
-sistemi - Tutto su Sistemi operativi
-basi - Tutto su Basi di dati
-ingegneria - Tutto su Ingegneria del software
-apprendimento - Tutto su Introduzione all'apprendimento automatico
-cybersecurity - Tutto su Fondamenti di cybersecurity
-teorica - Tutto su Informatica teorica
-progetto - Tutto su Progetto di sistemi virtuali
-fisica - Tutto su Fisica
-applicazioni - Tutto su Laboratorio di applicazioni mobili
-storia - Tutto su Storia dell'informatica e dei dispositivi di calcolo
-strategia - Tutto su Strategia aziendale
-```
+mandare la lista dei comandi del tuo bot. Puoi il risultato del comando
+`/help` di Informabot te li fornisce tutti, ma bisogna rimuovere i `/`
+prefissi prima di inoltrare a BotFather.
 
 ## Aggiungere nuovi comandi
 
