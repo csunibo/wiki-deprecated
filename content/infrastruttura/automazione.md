@@ -13,6 +13,8 @@ gli studenti di AdmStaff](https://students.cs.unibo.it/wiki/).
 ## `bot` ([Informabot](../../bot/informabot))
 
 Per eseguire il playbook sull'host `bot` è necessario inserire il token del bot
-di telegram nel file `passwords/bot_token`.
+di telegram nel file `passwords/bot_token`. Dopo aver messo il bot in esecuzione,
+se sono stati aggiunti nuovi comandi è importante
+[configurarlo](../../bot/informabot#configurazione)
 
 ## `calendar` ([Calendario](../../applicativi-web/calendario))
