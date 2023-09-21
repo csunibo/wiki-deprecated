@@ -6,10 +6,10 @@ weight = 2
 
 Per ciascun insegnamento, raccogliamo in modo organizzato appunti, testi e
 soluzioni di esercizi e prove di esame, libri, dispense, lucidi e molto altro.
-Dal loro caricamento diventano visionabili su:
+Dal loro caricamento diventano visionabili sulle istanze:
 
-- l'applicazione web [dynamik.vercel.app](https://dynamik.vercel.app/);
-- il sito statico [csunibo.github.io](https://csunibo.github.io/).
+- [risorse.students.cs.unibo.it](https://dynamik.vercel.app/) (principale);
+- [csunibo.github.io/dynamik](https://csunibo.github.io/dynamik) (secondaria).
 
 Nuove istanze in arrivo!
 
@@ -23,3 +23,6 @@ un'altra persona, assicurati:
 - che tutti i [controlli automatici](./controlli-automatici) passino;
 - di usare, dove possibile, "sorgenti" `.tex`/`.md`/`.doc(x)`/`.odt(x)` e simili
   anziché le loro controparti "compilate" PDF/HTML.
+- di caricare, se possibile, la risorsa stessa anziché un collegamento a una sua
+- versione esterna: in questo modo rendi possibile ad altre persone di ampliarla
+  correggerla in futuro.
