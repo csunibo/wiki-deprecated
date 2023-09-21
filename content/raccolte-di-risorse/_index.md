@@ -11,8 +11,6 @@ Dal loro caricamento diventano visionabili sulle istanze:
 - [risorse.students.cs.unibo.it](https://dynamik.vercel.app/) (principale);
 - [csunibo.github.io/dynamik](https://csunibo.github.io/dynamik) (secondaria).
 
-Nuove istanze in arrivo!
-
 ## Controllo qualità
 
 Quando contribuisci con le tue risorse o stai per accettare il lavoro di
