@@ -11,12 +11,17 @@ moderatrici e i moderatori ti aiuteranno lungo tutto il percorso.
 
 ## Nomenclatura
 
-In generale, è sufficiente usare il `kebab-case` (e cioè lettere minuscole e
-trattini alti) sia per i nomi delle cartelle che dei file.
+Per la maggior parte delle cartelle, è sufficiente usare il `kebab-case` (e
+cioè lettere minuscole e trattini alti) sia per i nomi delle cartelle che
+dei file: questo controllo è applicato ricorsivamente anche alle sottocartelle
+e al loro contenuto, in modo da garantire uniformità per l'intera raccolta.
 
-Seguono i casi dei controlli più stringenti. Se una sottocartella li passa, i
-contenuti a essa appartenenti non vengono controllati: questo è utile per le
-risorse distribuite "impacchettate" assieme dal corpo docente.
+Fanno eccezione i casi che seguono. Essi prevedono controlli più stringenti ma,
+se una sottocartella li passa, i contenuti a essa appartenenti non vengono
+controllati (tale cartella non viene visitata ricorsivamente). Questo è utile
+per le sottocartelle i cui elementi, per loro natura, devono preservare la
+nomenclatura originale, come i progetti, o alcune raccolte di file fornite dal
+corpo docente.
 
 ### `dispense/` e `lucidi/`
 
