@@ -22,5 +22,5 @@ un'altra persona, assicurati:
 - di usare, dove possibile, "sorgenti" `.tex`/`.md`/`.doc(x)`/`.odt(x)` e simili
   anziché le loro controparti "compilate" PDF/HTML.
 - di caricare, se possibile, la risorsa stessa anziché un collegamento a una sua
-- versione esterna: in questo modo rendi possibile ad altre persone di ampliarla
+  versione esterna: in questo modo rendi possibile ad altre persone ampliarla e
   correggerla in futuro.
