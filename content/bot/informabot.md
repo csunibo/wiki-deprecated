@@ -24,11 +24,12 @@ go build
 Per lanciare il bot dalla cartella radice del progetto, usare:
 
 ```bash
-go run main.go $TOKEN
+TOKEN=123:A4b5C6 go run .
 ```
 
-dove `$TOKEN` è il codice di autorizzazione ricevuto da
-[BotFather](https://core.telegram.org/bots#6-botfather).
+usando il codice di autorizzazione ricevuto da
+[BotFather](https://core.telegram.org/bots#6-botfather) anziché
+`123:A4b5C6`.
 
 ## Configurazione
 
