@@ -18,6 +18,11 @@ git submodule init
 git submodule update
 ```
 
+Crea un file `.env` con
+```env
+VITE_UPLD_URL="http://localhost"
+```
+
 Per avviare un'istanza di sviluppo:
 
 ```bash
