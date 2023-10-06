@@ -54,3 +54,7 @@ Esistono diverse istanze pubbliche di Dynamik:
 Mentre la messa in prodzione della e seconda e della terza è controllata dai
 processi di CI/CD, per la prima si veda [la guida relativa all'automazione
 dell'infrastruttura](https://csunibo.github.io/wiki/infrastruttura/automazione/index.html).
+
+## Link utili
+
+[📊Build Status](https://risorse.students.cs.unibo.it/build)
