@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Progetti ausiliari"
-weight = 8
+weight = 9
 +++
 
 Alcuni applicativi di CSUnibo sono pensati appositamente per essere dipendenze
