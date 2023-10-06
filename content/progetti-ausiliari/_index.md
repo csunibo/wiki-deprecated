@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title: "Progetti ausiliari"
+title = "Progetti ausiliari"
 weight = 8
 +++
 
