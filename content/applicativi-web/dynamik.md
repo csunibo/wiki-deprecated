@@ -51,7 +51,7 @@ Esistono diverse istanze pubbliche di Dynamik:
 - [GitHub Pages](https://csunibo.github.io/dynamik) (più lenta, senza SSR);
 - [Vercel](https://dynamik.vercel.app/) (non pubblicizzata).
 
-Mentre la messa in prodzione della e seconda e della terza è controllata dai
+Mentre la messa in produzione della seconda e della terza è controllata dai
 processi di CI/CD, per la prima si veda [la guida relativa all'automazione
 dell'infrastruttura](https://csunibo.github.io/wiki/infrastruttura/automazione/index.html).
 
