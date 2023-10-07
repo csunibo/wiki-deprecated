@@ -11,3 +11,5 @@ affrontate durante nessun insegnamento. Tutti i materiali sono disponibili
 presso [`csunibo/lab`](https://github.com/csunibo/lab). È possibile iscriversi
 o suggerire nuovi argomenti per laboratori fra pari tramite il modulo ["CSUnibo
 in ascolto"](https://lr533gb3hpt.typeform.com/to/m5fzNCsW).
+
+> Info sui prossimi incontri: [articolo ADMStaff](https://students.cs.unibo.it/blog/laboratori_2023/)
