@@ -12,4 +12,4 @@ presso [`csunibo/lab`](https://github.com/csunibo/lab). È possibile iscriversi
 o suggerire nuovi argomenti per laboratori fra pari tramite il modulo ["CSUnibo
 in ascolto"](https://lr533gb3hpt.typeform.com/to/m5fzNCsW).
 
-> Info sui prossimi incontri: [articolo ADMStaff](https://students.cs.unibo.it/blog/laboratori_2023/)
+> Info sui prossimi incontri: [sito ADMStaff](https://students.cs.unibo.it)
